@@ -65,6 +65,8 @@ def main(
     :param code_review: Whether to use code review.
     :return:
     """
+    with open("input.txt", 'r') as file:
+        idea = file.read()
     asyncio.run(startup(idea, investment, n_round, code_review, run_tests, implement))
 
 
