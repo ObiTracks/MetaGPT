@@ -35,7 +35,7 @@ Max Output: 8192 chars or 2048 tokens. Try to use them up.
 
 ## Python package name: Provide as Python str with python triple quoto, concise and clear, characters only use a combination of all lowercase and underscores
 
-## File list: Provided as Python list[str], the list of ONLY REQUIRED files needed to write the program(LESS IS MORE!). Only need relative paths, comply with PEP8 standards. ALWAYS write a main.py or app.py here
+## File list: Provided as Python list[str], the list of ALL the required files and folders needed to write the program. This should be comprehensive to cover all functionalities comprehnsive for production. Only need relative paths, comply with PEP8 standards. ALWAYS write a main.py or app.py here
 
 ## Data structures and interface definitions: Use mermaid classDiagram code syntax, including classes (INCLUDING __init__ method) and functions (with type annotations), CLEARLY MARK the RELATIONSHIPS between classes, and comply with PEP8 standards. The data structures SHOULD BE VERY DETAILED and the API should be comprehensive with a complete design. 
 
@@ -88,7 +88,8 @@ Attention: Use '##' to split sections, not '#', and '## <SECTION_NAME>' SHOULD W
 
 ## Python package name: Provide as Python str with python triple quoto, concise and clear, characters only use a combination of all lowercase and underscores
 
-## File list: Provided as Python list[str], the list of ONLY REQUIRED files needed to write the program(LESS IS MORE!). Only need relative paths, comply with PEP8 standards. ALWAYS write a main.py or app.py here
+## File list: Provided as Python list[str], the list of ALL the required files and folders needed to write the program. This should be comprehensive to cover all functionalities comprehnsive for production. Only need relative paths, comply with PEP8 standards. ALWAYS write a main.py or app.py here
+
 
 ## Data structures and interface definitions: Use mermaid classDiagram code syntax, including classes (INCLUDING __init__ method) and functions (with type annotations), CLEARLY MARK the RELATIONSHIPS between classes, and comply with PEP8 standards. The data structures SHOULD BE VERY DETAILED and the API should be comprehensive with a complete design. 
 
