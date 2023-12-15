@@ -1,0 +1,18 @@
+[
+    {
+        "type": "File",
+        "name": "/Users/obiihej/dev/ProjectX Repos/MetaGPT/app/main.py",
+        "parent_id": null,
+        "workspaceRoot": "/Users/obiihej/dev/ProjectX Repos/MetaGPT",
+        "workspacePath": "app/main.py",
+        "id": "pwulsjXeky5mSZC1"
+    },
+    {
+        "type": "File",
+        "name": "/Users/obiihej/dev/ProjectX Repos/MetaGPT/startup.py",
+        "parent_id": null,
+        "workspaceRoot": "/Users/obiihej/dev/ProjectX Repos/MetaGPT",
+        "workspacePath": "startup.py",
+        "id": "d9LOXWri48Mstga5"
+    }
+]
